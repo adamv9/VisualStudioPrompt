@@ -1,5 +1,7 @@
 Assignment title: Visual Prompt Studio Phase 1.1
 
-Prompt: (insert text)
+Credits: The article where I first got the art from, the section titled Keith Haring https://www.myartbroker.com/collecting/articles/art-as-activism, A website that shows the artwork titled, "Ignorance = Fear / Silence = Death" https://whitney.org/collection/works/46387, and the article that goes into further detail on the pink triangle and its meaning https://www.thehenryford.org/explore/blog/silence-equals-death-the-early-fight-against-the-aids-epidemic
 
-Vocabulary breakdown; Medium: the materials, tools, or process an artist uses to convey their message; Meaning: The main idea or message the art is portraying; Subject Matter: the topic that we can see in the art itself; Abstract Art: 
+Short Paragraph: The art made by Keith Haring is titled "Ignorance = Fear / Silence = Death," this was very critical at the time due to the HIV/AIDS crisis in the 1930s and 40s. The mural shows three people covering their mouths, ears, and eyes, preferring to be silent in the crisis that they believe doesn't affect them. The words above and below are written to tell the viewer what it means when they decide to ignore, and what being silent means. This artwork is especially important back then and now because of how many people thought HIV/AIDS was something they shouldn't have brought into mind, when it affects them just as it does everyone else.
+
+Vocabulary breakdown; Medium: the materials, tools, or process an artist uses to convey their message; Meaning: The main idea or message the art is portraying; Subject Matter: the topic that we can see in the art itself; Abstract Art: The style where we are meant to use the shapes, colors, and words to tell us what they mean.
